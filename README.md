@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Abner Batista Garbin, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software. Desenvolvedor buscando reunir conhecimentos e aplicar novas tecnologias, aproveite meu portifólio! 💻
+Me chamo Abner Batista Garbin, tenho 24 anos. Atualmente, estou cursando Engenharia de Software. Desenvolvedor buscando reunir conhecimentos e aplicar novas tecnologias, aproveite meu portifólio! 💻
 
 ---
 
