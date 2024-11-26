@@ -78,6 +78,18 @@ Me chamo Abner Batista Garbin, tenho 24 anos. Atualmente, estou cursando Engenha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Maven" 
+    title="Maven"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+/>
+
+ 
+          
         
           
 
