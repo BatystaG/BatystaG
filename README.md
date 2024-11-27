@@ -72,6 +72,16 @@ Me chamo Abner Batista Garbin, tenho 24 anos. Atualmente, estou cursando Engenha
 
 <img 
     align="left" 
+    alt="PostgreeSQL" 
+    title="PostgreeSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/> 
+   
+
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
@@ -96,10 +106,6 @@ Me chamo Abner Batista Garbin, tenho 24 anos. Atualmente, estou cursando Engenha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg"
 /> 
-          
-            
-          
-        
           
 
 <br/>
